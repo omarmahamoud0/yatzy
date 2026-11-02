@@ -87,8 +87,11 @@ Phone layout (wireframe):
 
 Desktop layout: same blocks, centred in a column up to 760px wide, the four buttons in one row and the scorecard showing the "Combination" column.
 
-> Add screenshots here after you run the game (see `screenshots/` folder).
+   Screenshots of the finished game:
 
+   ![Desktop view](screenshots/desktop.png)
+
+   ![Phone view](screenshots/phone.png)
 ## Project structure
 
 ```
